@@ -1,4 +1,4 @@
 # vicky-demo
 This is my first Git Repository.
 <br>
-Author - Vignan Kumar
+Author - Vignan (Vicky)
